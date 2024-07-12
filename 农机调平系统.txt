@@ -1,0 +1,16 @@
+农机调平系统旋耕机使用说明书
+https://wit-motion.yuque.com/wumwnr/docs/xa92l2
+
+
+农机调平系统自动/手动调平系统/插秧机农机具液压悬挂自动平衡
+https://item.taobao.com/item.htm?id=564119295700
+
+
+Accelerometer Sensor Tutorial in Android Studio (Kotlin 2021) 
+https://www.youtube.com/watch?v=xcsuDDQHrLo
+
+https://github.com/federicoazzu/accelerometer/
+
+ESP32 向手機取得數據，並控制電路。
+
+左右，高度。
